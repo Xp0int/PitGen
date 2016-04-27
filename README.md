@@ -1,10 +1,15 @@
-Translate 010editor's template into Peach pit.
+#PitGen
 
-USAGE:
-	pitgen.py -f [sample file] -t [010 template]
+   Translate 010editor's template into Peach pit.
 
-INSALL:
-pip install pfp
-pip install 010parser
+##USAGE:
+
+    pitgen.py -f [sample file] -t [010 template]
+
+##INSALL:
+
+    pip install pfp
+
+    pip install 010parser
 
 
